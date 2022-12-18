@@ -1,2 +1,3 @@
 # AgriVille
-- a simple but fun farming game
+- A simple but fun farming game
+- Still in beta

@@ -10,8 +10,8 @@ The game is made in Unity using c# and our own textures.
 #
 - If you have any personal questions please DM me at [-mateo#7575](https://discordapp.com/users/554382531408166934).
 - Here is the listed contributors:
-[Kacper](https://github.com/Kacpi1600)
-[Mateo](https://github.com/M4TE0FR)
-[Jayden](https://github.com/Pxpe123)
+[Kacper](https://github.com/Kacpi1600),
+[Mateo](https://github.com/M4TE0FR),
+[Jayden](https://github.com/Pxpe123),
 Adam - does not currently have a discord account but does highly contirbute.
 
